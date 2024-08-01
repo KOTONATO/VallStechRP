@@ -1,0 +1,24 @@
+{
+    "bot": {
+        "animation" : 0.1,
+        "confidence": 0.8,
+        
+        "key": "9",
+        "pauseKey": "insert",
+        "exitKey": "del",
+
+        "phoneSpeed": 1,
+        "errorTime": 2,
+        "delay": 5,
+        "untilStartLoop": 3,
+        "screenshotWins": true,
+
+        "sDelay": 0.1
+    },
+
+    "error": {
+        "modeIsString": 101,
+        "notFoundedMode": 102,
+        "modeIsNotWorking": 103
+    }
+}
